@@ -32,6 +32,11 @@ const projects = [
     description: 'Contribution to the BioDrop project for biomedical research.',
     link: 'https://github.com/biodrop/biodrop'
   },
+  {
+    name: 'iTasks',
+    description: 'This is a Todo List application built with React that allows users to add, edit, delete, and view their todos.',
+    link: 'https://github.com/Luciferair/iTasks.git'
+  },
   // Add more projects as needed
 ];
 
