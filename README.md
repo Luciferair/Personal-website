@@ -19,8 +19,8 @@ This personal website is designed to provide an online presence, displaying deta
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone  https://github.com/Luciferair/Personal-website.git
+   cd Personal-website
    npm install
    npm run dev
 
@@ -36,4 +36,4 @@ After starting the development server, open your browser and navigate to `http:/
 
 
 ## License
-[MIT License](url)
+[MIT License](LICENSE)
